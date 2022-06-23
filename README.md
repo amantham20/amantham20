@@ -6,7 +6,7 @@
 </div>
 <div align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amantham20&layout=compact" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantham20&layout=compact)](https://github.com/amantham20/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantham20&layout=compact)](https://github.com/amantham20/github-readme-stats) -->
 </div>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amantham20&" alt="amantham20" /></p>
