@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" width="40" height="40"> I'm Aman Dhruva Thammama</h1>
+<h1 align="center">Ahoy fellow Developer <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" width="40" height="40"> I'm Aman Dhruva Thammama</h1>
 
 <h3 align="center">
 Student by day, Developer by Night
