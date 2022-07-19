@@ -12,6 +12,15 @@ I'm involved in a variety of extracurriculars on campus, including AI club, Entr
 I also love spontaneously traveling, listening to overplayed music and consuming too much coffee.
 </p>
 
+
+
+### Languages I've worked with:
+#### Programing Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 <div align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amantham20"/>
 <!-- [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantham20)](https://github.com/amantham20/github-readme-stats) -->
@@ -27,6 +36,13 @@ I also love spontaneously traveling, listening to overplayed music and consuming
 
 <!--    ![snake gif](https://github.com/amantham20/amantham20/blob/output/github-contribution-grid-snake.gif) -->
 <!-- </details> -->
+
+
+
+
+
+
+
 
 <!--
 **amantham20/amantham20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
