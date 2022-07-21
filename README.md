@@ -120,9 +120,16 @@ I also love spontaneously traveling, listening to overplayed music and consuming
 
 
 ## Relevant Courses I have taken @ MSU:
-Fall 2021: Discrte Math(CSE 260), Linear and Matrix Algebra(MTH 314), Intro to Proofs(MTH 299), Creativity and Innovative Entrepreneurship(CAS 114) and Calculas III (MTH 234)
-Spring 2021: Intro to Programming II(CSE 232), Art of Starting(ESHP 190), and Calculus II(MTH 133)
-Fall 2020: iOS Design Lab(WRA 491), Intro to Engineering Design(EGR 100), and Calculus I(MTH 132)
+### Fall 2022
+Object-Oriented Software Development(CSE 335), Computer Systems(CSE 325), Probability and Statistics(comp)(STT 351), and Computational Modeling(CMSE 201)
+### Spring 2022
+iOS Design Lab 2(WRA 491), Data Structures and Algorithms(CSE 331), Computer Orginization and architecture(CSE 320), Differential Equations(MTH 235), and Abstract Algebra(MTH 320)
+### Fall 2021
+Discrte Math(CSE 260), Linear and Matrix Algebra(MTH 314), Intro to Proofs(MTH 299), Creativity and Innovative Entrepreneurship(CAS 114) and Calculas III (MTH 234) <br />
+### Spring 2021
+Intro to Programming II(CSE 232), Art of Starting(ESHP 190), and Calculus II(MTH 133)<br />
+###Fall 2020
+iOS Design Lab(WRA 491), Intro to Engineering Design(EGR 100), and Calculus I(MTH 132)<br />
 
 
 
