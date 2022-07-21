@@ -131,7 +131,8 @@ Intro to Programming II(CSE 232), Art of Starting(ESHP 190), and Calculus II(MTH
 ### Fall 2020
 iOS Design Lab(WRA 491), Intro to Engineering Design(EGR 100), and Calculus I(MTH 132)<br />
 
-
+### self taught
+Web Design and Development, Mobile Development, Theory of computation and Database Management Systems
 
 
 
