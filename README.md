@@ -128,7 +128,7 @@ iOS Design Lab 2(WRA 491), Data Structures and Algorithms(CSE 331), Computer Org
 Discrte Math(CSE 260), Linear and Matrix Algebra(MTH 314), Intro to Proofs(MTH 299), Creativity and Innovative Entrepreneurship(CAS 114) and Calculas III (MTH 234) <br />
 ### Spring 2021
 Intro to Programming II(CSE 232), Art of Starting(ESHP 190), and Calculus II(MTH 133)<br />
-###Fall 2020
+### Fall 2020
 iOS Design Lab(WRA 491), Intro to Engineering Design(EGR 100), and Calculus I(MTH 132)<br />
 
 
