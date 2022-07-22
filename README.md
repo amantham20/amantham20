@@ -4,7 +4,7 @@
 Student by day, Developer by Night
 </h3>
 
-<p> Currently pursuing a major in Computer Science, and Mathematics and a Minor in Computational Mathematics, Science & Engineering (CMSE), and Entrepreneurship & Innovation at Michigan State University. I fell in love with computers at first sight. My main interests include Algorithms and Computer theory, Cloud technology, and Machine Learning/Artificial intelligence. I also dabble in other aspects of Business, Engineering, web and mobile development. </p>
+<p> Currently pursuing a major in Computer Science, and Mathematics and a Minor in Computational Mathematics, Science & Engineering (CMSE), and Entrepreneurship & Innovation at Michigan State University. I fell in love with computers at first sight. My main interests include Algorithms and Computer theory, Cloud technology, and Machine Learning/Artificial intelligence. I also dabble in other aspects of Business, Engineering, Web and Mobile development. </p>
 
 <p>
 I'm involved in a variety of extracurriculars on campus, including AI club, Entrepreneurship club, and the Engineering Student Council.
