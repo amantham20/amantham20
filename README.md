@@ -139,6 +139,9 @@ I also love spontaneously traveling, listening to overplayed music and consuming
 
 
 ## Relevant Courses I have taken @ MSU:
+
+### Spring 2023 🤞
+Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830), Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202)
 ### Fall 2022
 Object-Oriented Software Development(CSE 335), Computer Systems(CSE 325), Probability and Statistics(comp)(STT 351), and Computational Modeling(CMSE 201)
 ### Spring 2022
