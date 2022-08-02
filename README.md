@@ -139,19 +139,22 @@ I also love spontaneously traveling, listening to overplayed music and consuming
 
 
 ## Relevant Courses I have taken @ MSU:
-<small> usually 3** level courses are 3 credits. 4** level courses are 3 credits. some 2** courses are 4 credits</small>
+<small> usually 3** level courses are 3 credits, 4** level courses are 3 credits, and some 2** courses maybe 4 credits. "Recommended course load per semester: 14-16 credis"</small>
 
 ### Spring 2023 🤞
-Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830), Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202)
+Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830), Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202) <br />
 ### Fall 2022 (18 Credits)
-Object-Oriented Software Development(CSE 335), Computer Systems(CSE 325), Probability and Statistics(comp)(STT 351), and Computational Modeling(CMSE 201)
+Object-Oriented Software Development(CSE 335), Computer Systems(CSE 325), Probability and Statistics(comp)(STT 351), and Computational Modeling(CMSE 201)<br />
+Work: `ICER Web-developer, Acadamic governeace Database Developer, and CSE 260(Discrete Math) ULA/TA`
 ### Spring 2022 (21 Credits 😬)
-iOS Design Lab 2(WRA 491), Data Structures and Algorithms(CSE 331), Computer Orginization and architecture(CSE 320), Differential Equations(MTH 235), and Abstract Algebra(MTH 320)
+iOS Design Lab 2(WRA 491), Data Structures and Algorithms(CSE 331), Computer Orginization and architecture(CSE 320), Differential Equations(MTH 235), and Abstract Algebra(MTH 310)<br />
+Work: `ICER Web-developer`
 ### Fall 2021 (18 Credits)
 Discrte Math(CSE 260), Linear and Matrix Algebra(MTH 314), Intro to Proofs(MTH 299), Creativity and Innovative Entrepreneurship(CAS 114) and Calculas III (MTH 234) <br />
-### Spring 2021
+Work: `ICER Web-developer, and MTH 103(college algebra) ULA/TA`
+### Spring 2021 (15 Credits)
 Intro to Programming II(CSE 232), Art of Starting(ESHP 190), and Calculus II(MTH 133)<br />
-### Fall 2020
+### Fall 2020 (17 credits)
 iOS Design Lab(WRA 491), Intro to Engineering Design(EGR 100), and Calculus I(MTH 132)<br />
 
 ### Self Taught
