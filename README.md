@@ -139,7 +139,8 @@ I also love spontaneously traveling, listening to overplayed music and consuming
 
 
 ## Relevant Courses I have taken @ MSU:
-<small> usually 3** level courses are 3 credits, 4** level courses are 3 credits, and some 2** courses maybe 4 credits. <br /> "Recommended course load per semester: 14-16 credits"</small>
+<small> usually 3** level courses are 3 credits, 4** level courses are 3 credits, and some 2** courses maybe 4 credits. <br /> 
+  "Recommended credit load per semester: 14-16 credits"</small>
 
 ### Spring 2023 🤞
 Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830), Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202) <br />
