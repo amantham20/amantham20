@@ -168,6 +168,7 @@ iOS Design Lab(WRA 491), Intro to Engineering Design(EGR 100), and Calculus I(MT
 ### Self Taught
 Web Design and Development, Mobile Development, Theory of computation and Database Management Systems
 
+More information about courses <a href="https://github.com/amantham20/MSU-Courses">Here</a>
 
 
 
