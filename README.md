@@ -126,15 +126,15 @@ ARM Assembly, Microsoft Excel Certified, Microsoft Word Certified, Powerpoint, A
 <br />
 
 
-## Stats
+<h2 align="center"> Stats </h2>
 <div align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amantham20"/>
 <!-- [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantham20)](https://github.com/amantham20/github-readme-stats) -->
-</div> <br />
+</div> 
 <div align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amantham20&layout=compact" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantham20&layout=compact)](https://github.com/amantham20/github-readme-stats) -->
-</div><br />
+</div>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amantham20&" alt="amantham20" /></p>
 
