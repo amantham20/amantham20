@@ -113,6 +113,10 @@ I also love spontaneously traveling, listening to overplayed music and consuming
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) <!-- -->
 
+### Other Misc:
+ARM Assembly, Microsoft Excel Certified, Microsoft Word Certified, Powerpoint, Access, Autodesk Fusion 360, Autodesk Inventor, and Photoshop 
+
+
 <!-- #### Platforms
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
