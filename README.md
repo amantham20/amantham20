@@ -145,7 +145,7 @@ ARM Assembly, Microsoft Excel Certified, Microsoft Word Certified, Powerpoint, A
 
 
 
-## Relevant Courses I have taken @ MSU:
+## Relevant Courses I took @ MSU:
 <small> usually 3** level courses are 3 credits, 4** level courses are 3 credits, and some 2** courses maybe 4 credits. <br /> 
   "Recommended credit load per semester: 14-16 credits"</small>
 
