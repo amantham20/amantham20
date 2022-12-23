@@ -149,9 +149,9 @@ ARM Assembly, Microsoft Excel Certified, Microsoft Word Certified, Powerpoint, A
 <small> usually 3** level courses are 3 credits, 4** level courses are 3 credits, and some 2** courses maybe 4 credits. <br /> 
   "Recommended credit load per semester: 14-16 credits"</small>
 
-### Spring 2023 🤞
-Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830), Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202) <br />
-### Fall 2022 (18 Credits)
+### Spring 2023 (18 credits)🤞
+Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830)???, Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202) <br />
+### Fall 2022 (19 Credits)
 Object-Oriented Software Development(CSE 335), Computer Systems(CSE 325), Probability and Statistics(comp)(STT 351), and Computational Modeling(CMSE 201)<br />
 Work: `ICER Web-developer, Acadamic Governance Database Developer, WRA 491 (iOS Design Lab Student Leader) ULA/TA and CSE 260(Discrete Math) ULA/TA`
 ### Spring 2022 (21 Credits 😬)
