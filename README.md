@@ -158,7 +158,7 @@ Work: `ICER Web-developer, Acadamic Governance Database Developer, WRA 491 (iOS 
 iOS Design Lab 2(WRA 491), Data Structures and Algorithms(CSE 331), Computer Orginization and architecture(CSE 320), Differential Equations(MTH 235), and Abstract Algebra(MTH 310)<br />
 Work: `ICER Web-developer`
 ### Fall 2021 (18 Credits)
-Discrte Math(CSE 260), Linear and Matrix Algebra(MTH 314), Intro to Proofs(MTH 299), Creativity and Innovative Entrepreneurship(CAS 114) and Calculas III (MTH 234) <br />
+Discrte Math(CSE 260), Linear and Matrix Algebra(MTH 314), Intro to Proofs(MTH 299), Creativity and Innovative Entrepreneurship(CAS 114) and Calculus III (MTH 234) <br />
 Work: `ICER Web-developer, and MTH 103(college algebra) ULA/TA`
 ### Spring 2021 (15 Credits)
 Intro to Programming II(CSE 232), Art of Starting(ESHP 190), and Calculus II(MTH 133)<br />
