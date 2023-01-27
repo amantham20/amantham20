@@ -154,7 +154,7 @@ Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830)???, 
 <br />
 Work: `ICER Senior Intern and Advisor, iOS Developer College of Agriculture, Acadamic Governance Database Developer, WRA 491(iOS Design Lab Student Leader) Teaching Assistant, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin), and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf) `
 
-
+Other Project 👀: `Project Odin`
 
 ### Fall 2022 (19 Credits)
 Object-Oriented Software Development(CSE 335), Computer Systems(CSE 325), Probability and Statistics(comp)(STT 351), and Computational Modeling(CMSE 201)<br />
