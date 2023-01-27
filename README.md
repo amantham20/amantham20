@@ -151,9 +151,10 @@ ARM Assembly, Microsoft Excel Certified, Microsoft Word Certified, Powerpoint, A
 
 ### Spring 2023 (18 credits)🤞
 Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830)???, Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202) <br />
+Work: `ICER Senior Intern and Advisor, iOS Developer College of Agriculture, Acadamic Governance Database Developer, WRA 491(iOS Design Lab Student Leader) Teaching Assistant, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin), and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf) `
 ### Fall 2022 (19 Credits)
 Object-Oriented Software Development(CSE 335), Computer Systems(CSE 325), Probability and Statistics(comp)(STT 351), and Computational Modeling(CMSE 201)<br />
-Work: `ICER Web-developer, Acadamic Governance Database Developer, WRA 491 (iOS Design Lab Student Leader) ULA/TA and CSE 260(Discrete Math) ULA/TA`
+Work: `ICER Web-developer, iOS Developer College of Agriculture, Acadamic Governance Database Developer, WRA 491 (iOS Design Lab Student Leader) TA and CSE 260(Discrete Math) Undergrad TA`
 ### Spring 2022 (21 Credits 😬)
 iOS Design Lab 2(WRA 491), Data Structures and Algorithms(CSE 331), Computer Orginization and architecture(CSE 320), Differential Equations(MTH 235), and Abstract Algebra(MTH 310)<br />
 Work: `ICER Web-developer`
