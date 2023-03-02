@@ -156,9 +156,14 @@ Work: `ICER Senior Intern and Advisor, iOS Developer College of Agriculture, Aca
 
 Other Project 👀: `Project Odin`
 
+Events Attended: `SpartaHacks, MHacks, and The Burgess New Venture Challenge(BNVC)`
+
 ### Fall 2022 (19 Credits)
 Object-Oriented Software Development(CSE 335), Computer Systems(CSE 325), Probability and Statistics(comp)(STT 351), and Computational Modeling(CMSE 201)<br />
 Work: `ICER Web-developer, iOS Developer College of Agriculture, Acadamic Governance Database Developer, WRA 491 (iOS Design Lab Student Leader) TA and CSE 260(Discrete Math) Undergrad TA`
+
+Events Attended: `SpartaHacks`
+
 ### Spring 2022 (21 Credits 😬)
 iOS Design Lab 2(WRA 491), Data Structures and Algorithms(CSE 331), Computer Orginization and architecture(CSE 320), Differential Equations(MTH 235), and Abstract Algebra(MTH 310)<br />
 Work: `ICER Web-developer`
@@ -174,8 +179,6 @@ iOS Design Lab(WRA 491), Intro to Engineering Design(EGR 100), and Calculus I(MT
 Web Design and Development, Mobile Development, Theory of computation and Database Management Systems
 
 More information about courses <a href="https://github.com/amantham20/MSU-Courses">Here</a>
-
-
 
 
 
