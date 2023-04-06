@@ -148,11 +148,21 @@ ARM Assembly, Microsoft Excel Certified, Microsoft Word Certified, Powerpoint, A
 ## Relevant Courses I took @ MSU:
 <small> usually 3** level courses are 3 credits, 4** level courses are 3 credits, and some 2** courses maybe 4 credits. <br /> 
   "Recommended credit load per semester: 14-16 credits"</small>
+  
+  
+### Fall 2023 (18 credits)🤞
+Computer Science Capstone (CSE 498), Discrete Mathematics and Combinatorics (MTH 481), Numeric Analysis I(MTH 451), Abstract Algebra and Number Theory (MTH 411).
+<br />
+Work: `Acadamic Governance Database Developer, WRA 491(iOS Design Lab Student Leader) Teaching Assistant, CSE 431?? (Algorithm Engineering) Teaching Assistant??, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin)??, and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf)??.`
+
+Other Project 👀: `Project Odin`
+
+<!-- Events Attended: `SpartaHacks, MHacks, and The Burgess New Venture Challenge(BNVC)` -->
 
 ### Spring 2023 (18 credits)🤞
-Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830)???, Distributed Systems (CSE 812), Discrete Mathematics and Combinatorics (MTH 481), Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202), Sailing (just in case CS does not work out)
+Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830), Distributed Systems (CSE 812), Discrete Mathematics and Combinatorics (MTH 481), Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202), Sailing (just in case CS does not work out)
 <br />
-Work: `ICER Senior Intern and Advisor, iOS Developer College of Agriculture, Acadamic Governance Database Developer, WRA 491(iOS Design Lab Student Leader) Teaching Assistant, CSE 231 (Intro to Programming I) Teaching Assistant, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin), and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf).`
+Work: `ICER Senior Intern and Senior Student Advisor, iOS Developer College of Agriculture, Acadamic Governance Database Developer, WRA 491(iOS Design Lab Student Leader) Teaching Assistant, CSE 231 (Intro to Programming I) Teaching Assistant, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin), and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf).`
 
 Other Project 👀: `Project Odin`
 
