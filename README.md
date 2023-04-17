@@ -161,7 +161,7 @@ Other Project 👀: `Project Odin`
 
 <!-- Events Attended: `SpartaHacks, MHacks, and The Burgess New Venture Challenge(BNVC)` -->
 
-### Spring 2023 (18 credits)🤞
+### Spring 2023 (18 credits)🤞 😧
 Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830), Distributed Systems (CSE 812), Discrete Mathematics and Combinatorics (MTH 481), Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202), Sailing (just in case CS does not work out)
 <br />
 Work: `ICER Senior Intern and Senior Student Advisor, iOS Developer College of Agriculture, Acadamic Governance Database Developer, WRA 491(iOS Design Lab Student Leader) Teaching Assistant, CSE 231 (Intro to Programming I) Teaching Assistant, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin), and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf).`
@@ -176,15 +176,18 @@ Work: `ICER Web-developer, iOS Developer College of Agriculture, Acadamic Govern
 
 Events Attended: `SpartaHacks`
 
-### Spring 2022 (21 Credits 😬)
+### Spring 2022 (21 Credits) 😬
 iOS Design Lab 2(WRA 491), Data Structures and Algorithms(CSE 331), Computer Orginization and architecture(CSE 320), Differential Equations(MTH 235), and Abstract Algebra(MTH 310)<br />
 Work: `ICER Web-developer`
-### Fall 2021 (18 Credits)
+
+### Fall 2021 (18 Credits) 😞
 Discrte Math(CSE 260), Linear and Matrix Algebra(MTH 314), Intro to Proofs(MTH 299), Creativity and Innovative Entrepreneurship(CAS 114) and Calculus III (MTH 234) <br />
 Work: `ICER Web-developer, and MTH 103(college algebra) ULA/TA`
-### Spring 2021 (15 Credits)
+
+### Spring 2021 (15 Credits) 😥
 Intro to Programming II(CSE 232), Art of Starting(ESHP 190), and Calculus II(MTH 133)<br />
-### Fall 2020 (17 credits)
+
+### Fall 2020 (17 credits) 😄
 iOS Design Lab(WRA 491), Intro to Engineering Design(EGR 100), and Calculus I(MTH 132)<br />
 
 ### Self Taught
