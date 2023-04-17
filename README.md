@@ -149,8 +149,10 @@ ARM Assembly, Microsoft Excel Certified, Microsoft Word Certified, Powerpoint, A
 <small> usually 3** level courses are 3 credits, 4** level courses are 3 credits, and some 2** courses maybe 4 credits. <br /> 
   "Recommended credit load per semester: 14-16 credits"</small>
   
-  
-### Fall 2023 (18 credits)🤞
+### Spring 2024 (18 Credits) 🤟
+Eeeeeehhhhhhhh!!
+
+### Fall 2023 (18 credits) ✌️
 Computer Science Capstone (CSE 498), Discrete Mathematics and Combinatorics (MTH 481), Numeric Analysis I(MTH 451), Abstract Algebra and Number Theory (MTH 411).
 <br />
 Work: `Acadamic Governance Database Developer, WRA 491(iOS Design Lab Student Leader) Teaching Assistant, CSE 431?? (Algorithm Engineering) Teaching Assistant??, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin)??, and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf)??.`
