@@ -170,7 +170,7 @@ Other Project 👀: `Project Odin`
 
 Events Attended: `SpartaHacks, MHacks, and The Burgess New Venture Challenge(BNVC)`
 
-### Fall 2022 (19 Credits)
+### Fall 2022 (19 Credits) 😉
 Object-Oriented Software Development(CSE 335), Computer Systems(CSE 325), Probability and Statistics(comp)(STT 351), and Computational Modeling(CMSE 201)<br />
 Work: `ICER Web-developer, iOS Developer College of Agriculture, Acadamic Governance Database Developer, WRA 491 (iOS Design Lab Student Leader) TA and CSE 260(Discrete Math) Undergrad TA`
 
