@@ -138,6 +138,9 @@ ARM Assembly, Microsoft Excel Certified, Microsoft Word Certified, Powerpoint, A
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amantham20&" alt="amantham20" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- <h3 align="center">Feeding the snake with my contribution graph</h3> -->
 
 <!--    ![snake gif](https://github.com/amantham20/amantham20/blob/output/github-contribution-grid-snake.gif) -->
@@ -194,6 +197,7 @@ iOS Design Lab(WRA 491), Intro to Engineering Design(EGR 100), and Calculus I(MT
 Web Design and Development, Mobile Development, Theory of computation and Database Management Systems
 
 More information about courses <a href="https://github.com/amantham20/MSU-Courses">Here</a>
+
 
 
 
