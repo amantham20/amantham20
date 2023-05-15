@@ -139,6 +139,74 @@ ARM Assembly, Microsoft Excel Certified, Microsoft Word Certified, Powerpoint, A
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amantham20&" alt="amantham20" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 200 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 38 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+🌆 Daytime                462 commits         ████████░░░░░░░░░░░░░░░░░   31.54 % 
+🌃 Evening                426 commits         ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+🌙 Night                  377 commits         ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   306 commits         █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Tuesday                  312 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Wednesday                208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Thursday                 102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Friday                   113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Saturday                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Sunday                   254 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Detroit
+
+💬 Programming Languages: 
+Markdown                 0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      0 secs              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   17 repos            ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+JavaScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Swift                    9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+```
+
+
+
+
+ Last Updated on 15/05/2023 01:09:57 UTC
 <!--END_SECTION:waka-->
 
 <!-- <h3 align="center">Feeding the snake with my contribution graph</h3> -->
