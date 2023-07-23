@@ -181,7 +181,7 @@ Eeeeeehhhhhhhh!!
 ### Fall 2023 (18 credits) ✌️
 Computer Science Capstone (CSE 498), Discrete Mathematics and Combinatorics (MTH 481), Numeric Analysis I(MTH 451), Abstract Algebra and Number Theory (MTH 411).
 <br />
-Work: `Acadamic Governance Database Developer, WRA 491(iOS Design Lab Student Leader) Teaching Assistant, CSE 431?? (Algorithm Engineering) Teaching Assistant??, CSE 331?? (Data Structures and Algorithms) Teaching Assistant??, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin)??, and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf)??.`
+Work: `Acadamic Governance Database Developer, WRA 491(Apple Design Lab Student Leader) Teaching Assistant, CSE 431 (Algorithm Engineering) Teaching Assistant, CSE 331 (Data Structures and Algorithms) Teaching Assistant, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin), and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf).`
 
 Other Project 👀: `Project Odin`
 
