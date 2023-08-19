@@ -187,7 +187,9 @@ Other Project 👀: `Project Odin`
 
 <!-- Events Attended: `SpartaHacks, MHacks, and The Burgess New Venture Challenge(BNVC)` -->
 
-### Spring 2023 (18 credits)🤞 😧
+
+
+### Spring 2023 (18 credits)🤞 😧 (end of sem: 😮‍💨😔)
 Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830), Distributed Systems (CSE 812), Discrete Mathematics and Combinatorics (MTH 481), Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202), Sailing (just in case CS does not work out)
 <br />
 Work: `ICER Senior Intern and Senior Student Advisor, iOS Developer College of Agriculture, Acadamic Governance Database Developer, WRA 491(iOS Design Lab Student Leader) Teaching Assistant, CSE 231 (Intro to Programming I) Teaching Assistant, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin), and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf).`
