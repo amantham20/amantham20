@@ -177,27 +177,33 @@ ARM Assembly, Microsoft Excel Certified, Microsoft Word Certified, Powerpoint, A
 <!-- </details> -->
 
 
-
+<details>
+<summary>Things I did in school</summary>
 ## Relevant Courses I took @ MSU:
 <small> usually 3** level courses are 3 credits, 4** level courses are 3 credits, and some 2** courses maybe 4 credits. <br /> 
   "Recommended credit load per semester: 14-16 credits"</small>
-  
+
+### Fall 2024 (18 Credits) 😮‍💨
+Engineering Entrepreneurship (EGR 440), Numerical Analysis I (MTH 451).
+Work: `Odin Classroom and Project Moonshot`
+
+
 ### Spring 2024 (18 Credits) 🤟
-Eeeeeehhhhhhhh!!
+Pattern Recognition and Analysis (CSE 802), Discrete Mathematics I (MTH 481), Math AI ML Capstone (MTH 496), and Boxing 🥊.
+Work: `Acadamic Governance Database Developer, WRA 491(Apple Design Lab Student Leader), Teaching Assistant, CSE 331 (Data Structures and Algorithms) Teaching Assistant, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin), and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf), Odin Classroom.`
+Events Attended: `SpartaHacks (Coached), and The Burgess New Venture Challenge(BNVC)`
 
 ### Fall 2023 (18 credits) ✌️
-Computer Science Capstone (CSE 498), Discrete Mathematics and Combinatorics (MTH 481), Numeric Analysis I(MTH 451), Abstract Algebra and Number Theory (MTH 411), and Boxing 🥊 (I mean we all get frustrated right?).
+Computer Science Capstone (CSE 498), Abstract Algebra and Number Theory 2 (MTH 411), Performance Modeling of Communication Networks (ECE 842), and Boxing 🥊 (I mean we all get frustrated right?).
 <br />
-Work: `Acadamic Governance Database Developer, WRA 491(Apple Design Lab Student Leader) Teaching Assistant, CSE 431 (Algorithm Engineering) Teaching Assistant, CSE 331 (Data Structures and Algorithms) Teaching Assistant, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin), and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf).`
+Work: `Acadamic Governance Database Developer, WRA 491(Apple Design Lab Student Leader) Teaching Assistant, CSE 431 (Algorithm Engineering), Teaching Assistant, CSE 331 (Data Structures and Algorithms) Teaching Assistant, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin), and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf).`
 
 Other Project 👀: `Project Odin`
-
-<!-- Events Attended: `SpartaHacks, MHacks, and The Burgess New Venture Challenge(BNVC)` -->
-
+Events Attended: `Techcrunch Disrupt 2025, Shell Hacks`
 
 
 ### Spring 2023 (18 credits)🤞 😧 (end of sem: 😮‍💨😔)
-Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830), Distributed Systems (CSE 812), Discrete Mathematics and Combinatorics (MTH 481), Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202), Sailing ⛵ (just in case CS does not work out)
+Foundations of Computing(CSE 860), Design and Theory of Algorithms(CSE 830), Distributed Systems (CSE 812), Mathematical Analysis I(MTH 320), and Computational Modeling(CMSE 202), Sailing ⛵ (just in case CS does not work out)
 <br />
 Work: `ICER Senior Intern and Senior Student Advisor, iOS Developer College of Agriculture, Acadamic Governance Database Developer, WRA 491(iOS Design Lab Student Leader) Teaching Assistant, CSE 231 (Intro to Programming I) Teaching Assistant, Math Research [Abstract Algebra and Number Theory](Dr. Aaron Levin), and Computer Science Reseach[NLP, and Genetic Programming] (Dr. Wolfgang Banzhaf).`
 
@@ -207,7 +213,7 @@ Events Attended: `SpartaHacks, MHacks, and The Burgess New Venture Challenge(BNV
 
 ### Fall 2022 (19 Credits) 😉
 Object-Oriented Software Development(CSE 335), Computer Systems(CSE 325), Probability and Statistics(comp)(STT 351), and Computational Modeling(CMSE 201)<br />
-Work: `ICER Web-developer, iOS Developer College of Agriculture, Acadamic Governance Database Developer, WRA 491 (iOS Design Lab Student Leader) TA and CSE 260(Discrete Math) Undergrad TA`
+Work: `ICER Web-developer, iOS Developer, College of Agriculture, Academic Governance Database Developer, WRA 491 (iOS Design Lab Student Leader) TA, and CSE 260(Discrete Math) Undergrad TA`
 
 Events Attended: `SpartaHacks`
 
@@ -225,9 +231,9 @@ Intro to Programming II(CSE 232), Art of Starting(ESHP 190), and Calculus II(MTH
 ### Fall 2020 (17 credits) 😄
 iOS Design Lab(WRA 491), Intro to Engineering Design(EGR 100), and Calculus I(MTH 132)<br />
 
-### Self Taught
-Web Design and Development, Mobile Development, Theory of computation and Database Management Systems
-
+### Self-Taught
+Web Design and Development, Mobile Development, Theory of ,Computation and Database Management Systems
+</details>
 More information about courses <a href="https://github.com/amantham20/MSU-Courses">Here</a>
 
 
