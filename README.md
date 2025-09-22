@@ -1,14 +1,15 @@
 <h1 align="center"> Hey Fellow Developer, <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" width="40" height="40"> I'm Aman Dhruva Thamminana</h1>
 
 <h3 align="center">
-Student by day, Developer by Night
+Developer by day, Developer by Night
 </h3>
 
 <p> Currently pursuing a major in Computer Science, and Mathematics and a Minor in Computational Mathematics, Science & Engineering (CMSE), and Entrepreneurship & Innovation at Michigan State University. I fell in love with computers at first sight. My main interests include Algorithms and Computer theory, distributed systems, Cloud technology, and Machine Learning/Artificial intelligence. I also dabble in Business, Engineering, Web and Mobile development. </p>
 
-<p>
+<!-- <p>
 I'm involved in a variety of extracurriculars on campus, including AI club, Entrepreneurship club, and the Engineering Student Council.
-</p><p>
+</p> -->
+<p>
 I also love spontaneously traveling, listening to overplayed music and consuming too much coffee.
 </p>
 
